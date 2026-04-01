@@ -4,7 +4,7 @@ echo -n "Navya-SA" | sha256sum
 > **Frontend Internship Take-Home Challenge**
 
 🔗 **Live Demo:** [https://YOUR_USERNAME.github.io/notes-app](https://YOUR_USERNAME.github.io/notes-app)  
-🐙 **GitHub:** [https://github.com/YOUR_USERNAME/notes-app](https://github.com/YOUR_USERNAME/notes-app)
+🐙 **GitHub:** [https://github.com/Navya-SA/Notely](https://github.com/Navya-SA/Notely)
 
 🔗 **Live Link** [https://notely-gzuy-git-main-navya-sas-projects.vercel.app]
 
