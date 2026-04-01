@@ -4,6 +4,7 @@ echo -n "Navya-SA" | sha256sum
 > **Frontend Internship Take-Home Challenge**
 
 🔗 **Live Demo:** [https://www.loom.com/share/a82ac2bff03b4465bfc193b366ec1a4f]
+
 🐙 **GitHub:** [https://github.com/Navya-SA/Notely](https://github.com/Navya-SA/Notely)
 
 🔗 **Live Link** [https://notely-gzuy-git-main-navya-sas-projects.vercel.app]
