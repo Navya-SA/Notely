@@ -1,6 +1,4 @@
-# YOUR_SHA256_HASH_HERE
-<!-- Replace the line above with: echo -n "YOUR_GITHUB_USERNAME" | sha256sum -->
-
+echo -n "Navya-SA" | sha256sum
 # 📝 Notely – Notes App
 
 > **Frontend Internship Take-Home Challenge**
