@@ -5,6 +5,7 @@ echo -n "Navya-SA" | sha256sum
 
 🔗 **Live Demo:** [https://YOUR_USERNAME.github.io/notes-app](https://YOUR_USERNAME.github.io/notes-app)  
 🐙 **GitHub:** [https://github.com/YOUR_USERNAME/notes-app](https://github.com/YOUR_USERNAME/notes-app)
+
 🔗 **Live Link** [https://notely-gzuy-git-main-navya-sas-projects.vercel.app]
 
 ---
