@@ -1,0 +1,17 @@
+{
+  "name": "Notely",
+  "short_name": "Notely",
+  "description": "A fast, offline-capable notes app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
